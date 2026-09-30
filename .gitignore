@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+
+# Downloaded files & folders
+downloads/
+test_downloads/
+test_horizontal/
+test_vertical/
+sheets/
+*.mp4
+*.part
+*.jpg
+*.jpeg
+*.png
+
+# Logs & temp
+*.log
+scraper.log
+.DS_Store
+Thumbs.db
